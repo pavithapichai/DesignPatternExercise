@@ -2,5 +2,5 @@
 
 
 <h2> Adapter </h2>
-You are given <b>IRectangle</b> interface and an extension method on it.
+You are given <b>IRectangle</b> interface and an Rectangle method on it.
 Try to define a <b>squareToRectangle</b> that adapts to the <b>IRectangle</b> interface.
