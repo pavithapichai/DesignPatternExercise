@@ -4,7 +4,7 @@ Java Design patterns
   Design patterns are recurring solutions to problems that arise during the life of a software application in a particular context
 
 # Getting Started
-you can find design patterns examples int this project
+you can find design patterns examples in this project
 
 Sample output for Command patern with Undo Operations
 
